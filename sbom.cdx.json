@@ -1,0 +1,38 @@
+{
+  "bomFormat": "CycloneDX",
+  "specVersion": "1.5",
+  "serialNumber": "urn:uuid:aa68f46a-4d23-54fd-b4c9-8af814660f02",
+  "version": 1,
+  "metadata": {
+    "timestamp": "2026-10-05T17:13:06Z",
+    "component": {
+      "type": "application",
+      "name": "ERSILIA",
+      "version": "5d3b9ab7d759",
+      "bom-ref": "pkg:generic/anticloud/ERSILIA@5d3b9ab7d759",
+      "purl": "pkg:generic/anticloud/ERSILIA@5d3b9ab7d759",
+      "licenses": [
+        {
+          "license": {
+            "id": "GPL-3.0"
+          }
+        }
+      ]
+    },
+    "properties": [
+      {
+        "name": "anticloud:source-commit",
+        "value": "5d3b9ab7d75956590e43a2d689f2df97b42e1839"
+      },
+      {
+        "name": "anticloud:source-url",
+        "value": "https://github.com/ersilia-os/ersilia"
+      },
+      {
+        "name": "anticloud:tier",
+        "value": "tier-agent"
+      }
+    ]
+  },
+  "components": []
+}
